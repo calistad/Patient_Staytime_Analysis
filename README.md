@@ -9,7 +9,7 @@ Help hospitals to identify patients who will stay longer at the time of admissio
 
 ## Approach
 
-The dataset consists of 18 features along with 318400 entries.
+The dataset consists of 18 features along with 318,400 entries.
 ![Screen Shot 2024-08-13 at 3 25 27 PM](https://github.com/user-attachments/assets/9c642d63-36fc-42a2-9d0c-f73b7bc11c8d)
 
 ![Screen Shot 2024-08-13 at 3 25 41 PM](https://github.com/user-attachments/assets/4658a51b-0bd7-4b2f-a8fe-8ad53688e769)
@@ -31,7 +31,7 @@ The dataset consists of 18 features along with 318400 entries.
 
 ![Screen Shot 2024-08-13 at 3 27 54 PM](https://github.com/user-attachments/assets/0d889b6e-6a28-450b-ad2f-8b2cb92a1cf6)
 
-##### Categorical columns encoding
+#### Categorical columns encoding
 
 ![Screen Shot 2024-08-13 at 3 37 07 PM](https://github.com/user-attachments/assets/e64d58b9-17f0-42af-a638-98994b2b9db1)
 ![Screen Shot 2024-08-13 at 3 37 27 PM](https://github.com/user-attachments/assets/ebcf3f71-1893-4e28-9f55-3e1ce5448359)
