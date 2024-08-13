@@ -5,7 +5,7 @@
 Predict the Length of Stay for each patient on case by case basis, so that the Hospitals can use this information for optimal resource allocation and better functioning.
 
 ### Purpose
-Help hospitals to identify patients who will stay longer at the time of admission, so the patients could have their treatment plan optimized to minimize time and lower the chance of staff/visitor infection.
+Help hospitals to identify patients who will stay longer at the time of admission, so their treatment plan can be optimized to minimize time and lower the chance of staff/visitor infection.
 
 ## Approach
 
